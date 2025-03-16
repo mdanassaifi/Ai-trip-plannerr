@@ -9,7 +9,7 @@ AI Trip Planner is a smart travel planning application built with React, Node.js
 Clone project and Move to Directory
 
 ```bash
-    git clone https://github.com/vermaadigit/AI-Trip-Planner.git
+    https://github.com/mdanassaifi/Ai-trip-plannerr.git
 
     cd AI-Trip-Planner
 ```
